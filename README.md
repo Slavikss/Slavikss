@@ -12,7 +12,7 @@ During my childhood, I had a fascination with Arduino, which ignited my interest
 
 ## Achievements
 
-- Winner of the DANO (Data Analysis Olympiad) competition.
+- Winner of the [DANO](https://dano.hse.ru)(Data Analysis Olympiad) competition.
 - Finalist in the National Technical Contest Artificial Intellgence track, specializing in "Best Foreign Solution."
 
 ## Professional Experience
