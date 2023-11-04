@@ -13,7 +13,8 @@ During my childhood, I had a fascination with Arduino, which ignited my interest
 ## Achievements
 
 - Winner of the [DANO](https://dano.hse.ru)(Data Analysis Olympiad) competition.
-- Finalist in the National Technical Contest Artificial Intellgence track, specializing in "Best Foreign Solution."
+- Finalist in the [National Technical Contest Artificial Intellgence](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/iskusstvennyy-intellekt/) track, specializing in "Best Foreign Solution."
+- Stepik top 10k active users [link](https://stepik.org/users/440152253/profile)
 
 ## Professional Experience
 
