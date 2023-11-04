@@ -1,5 +1,5 @@
 
-Hello! I'm Vyacheslav Guch, a passionate individual with a background in Arduino and a strong interest in machine learning, particularly neural network training. I'm currently pursuing my education at the Higher School of Economics (HSE) in the Faculty of Computer Science in Applied Mathematics ans Informatics educational program.
+Hello! I'm Vyacheslav Guch, a passionate individual with a background in Arduino and a strong interest in machine learning, particularly neural network training. I'm currently pursuing my education at the Higher School of Economics (HSE) in the Faculty of Computer Science in [Applied Mathematics ans Informatics](https://www.hse.ru/ba/ami/) educational program.
 
 ## Background
 
@@ -7,8 +7,8 @@ During my childhood, I had a fascination with Arduino, which ignited my interest
 
 ## Education
 
-- Graduated from the Deep Learning School (DLS) at MIPT.
-- Completed the Tinkoff Deep Learning program.
+- Graduated from the Deep Learning School ([DLS](https://dls.samcs.ru)) at MIPT.
+- Completed the Tinkoff Generation Deep Learning program.
 
 ## Achievements
 
