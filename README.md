@@ -27,7 +27,7 @@ More info you can access by reading my [CV](https://drive.google.com/file/d/1xXw
 
 You can reach out to me via the following channels:
 
-- Email: [vyacheslav.guch@gmail.com](mailto:vyacheslavguch@gmail.com)
+- Email: [vyacheslavguch@gmail.com](mailto:vyacheslavguch@gmail.com)
 - Telegram: [sslava_g](https://t.me/sslava_g)
 
 Feel free to connect with me!
