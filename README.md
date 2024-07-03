@@ -21,7 +21,7 @@ During my childhood, I had a fascination with Arduino, which ignited my interest
 
 I had the opportunity to gain professional experience during my internship at the Beeline Kazakhstan branch. This experience allowed me to apply my knowledge in a real-world setting and expand my skills in the field of Data Analysis, Production code etc.
 
-More info you can access by reading my [CV](https://drive.google.com/file/d/1xXweHXl8UR2x_mHhgtpXZXvdHODqp9Ne/view?usp=sharing) (russian version)
+More info you can access by reading my [CV](https://drive.google.com/file/d/1xXweHXl8UR2x_mHhgtpXZXvdHODqp9Ne/view?usp=sharing](https://drive.google.com/drive/folders/1e0LptZIddf3ZEohaymSabzfMTV-JSX4G?usp=drive_link)) and [Diplomas](https://drive.google.com/drive/folders/1lSdQR9rUAlxo902bfmz6cflQ1azZSL1A?usp=drive_link)
 
 ## Contact Information
 
