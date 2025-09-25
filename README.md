@@ -1,27 +1,7 @@
 
-Hello! I'm Vyacheslav Guch, a passionate individual with a background in Arduino and a strong interest in machine learning, particularly neural network training. I'm currently pursuing my education at the Higher School of Economics (HSE) in the Faculty of Computer Science in [Applied Mathematics ans Informatics](https://www.hse.ru/ba/ami/) educational program.
+Hello! I'm Vyacheslav Guch, building AI products for 3 years, primarly in B2B. Love to bring real value to world through my products
 
-## Background
-
-During my childhood, I had a fascination with Arduino, which ignited my interest in electronics and programming. Over the years, I've transitioned to more complex and data-driven fields, specifically machine learning. I've been actively involved in studying and applying various machine learning techniques, with a focus on neural network training.
-
-## Education
-
-- Graduated from the Deep Learning School ([DLS](https://dls.samcs.ru)) at MIPT.
-- Completed the Tinkoff Generation Deep Learning program.
-
-## Achievements
-
-- 🥇 Xmas Hack 2023 winner
-- Winner of the [DANO](https://dano.hse.ru)(Data Analysis Olympiad) competition.
-- Finalist in the [National Technical Contest Artificial Intellgence](https://ntcontest.ru/tracks/nto-school/proekt-po-iskusstvennomu-intellektu/iskusstvennyy-intellekt/) track, specializing in "Best Foreign Solution."
-- Stepik top 10k active users [link](https://stepik.org/users/440152253/profile)
-
-## Professional Experience
-
-I had the opportunity to gain professional experience during my internship at the Beeline Kazakhstan branch. This experience allowed me to apply my knowledge in a real-world setting and expand my skills in the field of Data Analysis, Production code etc.
-
-More info you can access by reading my [CV](https://drive.google.com/file/d/1xXweHXl8UR2x_mHhgtpXZXvdHODqp9Ne/view?usp=sharing](https://drive.google.com/drive/folders/1e0LptZIddf3ZEohaymSabzfMTV-JSX4G?usp=drive_link)) and [Diplomas](https://drive.google.com/drive/folders/1lSdQR9rUAlxo902bfmz6cflQ1azZSL1A?usp=drive_link)
+More info you can access by reading my [CV](https://slavikss.github.io/cv/cv.pdf)
 
 ## Contact Information
 
