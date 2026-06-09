@@ -6,7 +6,7 @@ More info you can access by reading my [CV](https://slavikss.github.io/cv/cv.pdf
 ## Contact Information
 
 You can reach out to me via the following channels:
-- my blog: slava.blog
+- my blog: https://slava.blog
 - Email: [vyacheslavguch@gmail.com](mailto:vyacheslavguch@gmail.com)
 - Telegram: [sslava_g](https://t.me/sslava_g)
 - [LinkedIn](https://www.linkedin.com/in/vyacheslav-guch-274ab72a7/)
