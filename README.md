@@ -1,6 +1,5 @@
 
-Hello! I'm Vyacheslav Guch, building AI products for 3 years, primarly in B2B. Love to bring real value to world through my products
-
+Hello! I'm Vyacheslav Guch, building AI products for 3 years, primarly in B2B. Love to bring real value to world through my products. Now building a lot of AI stuff in fintech enterprise
 More info you can access by reading my [CV](https://slavikss.github.io/cv/cv.pdf)
 
 ## Contact Information
